@@ -10,6 +10,5 @@ public class JuegoCartas {
     }
 
     public static void agregarCartas(){
-        
     }
 }
