@@ -1,8 +1,15 @@
 public class JuegoCartas {
-    public static void main(String[] args) {
+
+    public void main(String[] args) {
+        int y = 0;
+        crearMatrizCartas(y);
 
     }
-    public void crearMatrizCartas(){
+    public static void crearMatrizCartas(int y){
+        int[][] matriz = new int[2][y];
+    }
 
+    public static void agregarCartas(){
+        
     }
 }
